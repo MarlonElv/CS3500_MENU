@@ -71,12 +71,14 @@ This command-line neural network trainer enables:
 
 It is built using PyTorch and is modular enough to expand further (e.g., add new menu options, alternate models, or UI enhancements).
 
- Course: CMPS - 3500
- CLASS Project
- PYTHON IMPLEMENTATION: Main Menu Interaction Between Model and Data
- Date: 05/2/2025
- Student 1: Jon
- Student 2: Braden 
- Student 3: Noah 
- Student 4: Marlon
- description: Functionality Between Model and User commands to Train/Display and Load Data
+**Course:** CMPS - 3500  
+**Project:** CLASS Project  
+**Python Implementation:** Main Menu Interaction Between Model and Data  
+**Date:** 05/2/2025  
+**Team Members:**  
+- Student 1: Jon  
+- Student 2: Braden  
+- Student 3: Noah  
+- Student 4: Marlon  
+**Description:** Functionality Between Model and User commands to Train/Display and Load Data  
+
